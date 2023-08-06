@@ -1,47 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Galleries on JindoCat&#39;s Blog</title>
-        <link>https://blog.jindocat.com/gallery/</link>
-        <description>Recent content in Galleries on JindoCat&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>ko-kr</language><atom:link href="https://blog.jindocat.com/gallery/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Gallery</title>
-        <link>https://blog.jindocat.com/gallery/gallery/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://blog.jindocat.com/gallery/gallery/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://blog.jindocat.com/image1.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image 1&#34;
-	
-	
-&gt; &lt;img src=&#34;https://blog.jindocat.com/image2.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image 2&#34;
-	
-	
-&gt;
-&lt;img src=&#34;https://blog.jindocat.com/image3.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Image 1&#34;
-	
-	
-&gt;&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Galleries on JindoCat's Blog</title><link>https://blog.jindocat.com/gallery/</link><description>Recent content in Galleries on JindoCat's Blog</description><generator>Hugo -- gohugo.io</generator><language>ko-kr</language><atom:link href="https://blog.jindocat.com/gallery/index.xml" rel="self" type="application/rss+xml"/><item><title>Gallery</title><link>https://blog.jindocat.com/gallery/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.jindocat.com/gallery/gallery/</guid><description>&lt;p>&lt;img src="https://blog.jindocat.com/image1.png"
+loading="lazy"
+alt="Image 1"
+> &lt;img src="https://blog.jindocat.com/image2.png"
+loading="lazy"
+alt="Image 2"
+>
+&lt;img src="https://blog.jindocat.com/image3.png"
+loading="lazy"
+alt="Image 1"
+>&lt;/p></description></item></channel></rss>
