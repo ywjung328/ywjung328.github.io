@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on JindoCat&#39;s Blog</title>
+        <link>https://blog.jindocat.com/post/</link>
+        <description>Recent content in Posts on JindoCat&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko-kr</language>
+        <lastBuildDate>Fri, 05 May 2023 23:19:43 +0900</lastBuildDate><atom:link href="https://blog.jindocat.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>포스트 제목</title>
+        <link>https://blog.jindocat.com/post/sample/</link>
+        <pubDate>Fri, 05 May 2023 23:19:43 +0900</pubDate>
+        
+        <guid>https://blog.jindocat.com/post/sample/</guid>
+        <description>&lt;h1 id=&#34;head-1---1&#34;&gt;Head 1 - 1&lt;/h1&gt;
+&lt;h2 id=&#34;head-2&#34;&gt;Head 2&lt;/h2&gt;
+&lt;h1 id=&#34;head-1---2&#34;&gt;Head 1 - 2&lt;/h1&gt;
+&lt;p&gt;&lt;blockquote&gt;
+    &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;span class=&#34;cite&#34;&gt;&lt;span&gt;― &lt;/span&gt;&lt;span&gt;A famous person, &lt;/span&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Book&#34;&gt;&lt;cite&gt;The book they wrote&lt;/cite&gt;&lt;/a&gt;&lt;/span&gt;&lt;/blockquote&gt;
+포스트 본문
+포스트 본문
+포스트 본문&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>포스트 제목</title>
+        <link>https://blog.jindocat.com/post/sample2/</link>
+        <pubDate>Fri, 05 May 2023 23:19:43 +0900</pubDate>
+        
+        <guid>https://blog.jindocat.com/post/sample2/</guid>
+        <description>&lt;p&gt;포스트 본문
+포스트 본문
+포스트 본문&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
